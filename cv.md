@@ -8,7 +8,7 @@ _Contacts:_
 
 
 _About me:_
-### I'm a beginner on IT, I want to change my profession after situation COVID-19, because my company had to close our offices and work online.In this time I realized to study something new. I’m very active person, mostly giver. I like hiking , running, walking , traveling, dancing, reading and watch tv series on Netflix. Now I have been working in travel company, on the next year I prefer to work online and to travel. It’s time to change my life.
+### I'm a beginner in IT. I want to change my profession after situation COVID-19, because my company had to close our offices and work online.In this time I realized I wanted to study something new. I'm a very active person, mostly a giver. I like hiking , running, walking , traveling, dancing, reading and watching tv series on Netflix. Now I have been working in a travel company, and next year I prefer to work online and to travel. It’s time to change my life.
 
 _Code example:_
     
