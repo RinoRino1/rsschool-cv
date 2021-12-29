@@ -44,3 +44,4 @@ _Languages:_
 + Kyrgyz  fluently
 + Russian fluently
 + English Intermediate
++ ![logo](https://sun9-19.userapi.com/c857232/v857232869/a71bc/i5sa3vi1hDE.jpg)
