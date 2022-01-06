@@ -94,6 +94,13 @@ li {
     font-family: "Quicksand" regular 400;
     color: white;
 }
+.footer_list li img {
+    width: 150px;
+}
+.footer_list a {
+    font-size: 20px;
+    color: white;
+}
 
 
 
